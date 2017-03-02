@@ -32,9 +32,9 @@ statuses:
 
 promises:
     -
-        title: 'Test test test'
+        title: 'To stop using twitter'
         status: Not started
-        category: First 100 Days
+        category: Health
         tags:
             - 'Contract with the American Voter - 100 Day Plan'
         comments: 'https://redd.it/5d4r8m'
